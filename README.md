@@ -1,9 +1,9 @@
 # Featured Events – Internship Case Study 
 
-## 👨‍💻 Built By
+## Built By
 Fiza – Web Development Intern (Case Study for Dynamics 360)
 
-## 🔧 Tech Stack
+## Tech Stack
 - React
 - Bootstrap 5
 - Framer Motion
@@ -13,14 +13,14 @@ Fiza – Web Development Intern (Case Study for Dynamics 360)
 Live Demo
 [Link](https://featured-events-eu6r.vercel.app/)
 
-## 📦 Features
+## Features
 - Responsive layout with mobile-first design
 - Clean UI using Bootstrap and custom styles
 - Hero section with animated headline
 - Dynamic event cards rendered from local JSON
 - Search bar to filter events by name
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repo
 2. Run:
    ```bash
